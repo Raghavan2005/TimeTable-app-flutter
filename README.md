@@ -6,8 +6,9 @@ main.dart
 
 Use the interface name : Lecture() to create your own timetable
 
-Screenshort
+# Screenshort
 ![image](https://github.com/user-attachments/assets/182894be-f9a5-46d7-a6a5-fadb5ad28ac0)
 ![image](https://github.com/user-attachments/assets/159f7ed6-a81b-4982-9408-0a6beb8632ae)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/5e392325-9dce-4143-bd48-c9fe166206e6)
+
 
